@@ -4,12 +4,6 @@ A Bangla scam checker for Bangladeshi users. Paste a suspicious SMS, link, phone
 
 > ⚠️ This is an automated aid, not a guarantee. When in doubt, contact the official organization directly.
 
-## Screenshots
-
-| Check screen | Result screen |
-|---|---|
-| ![Check screen](screenshots/check.png) | ![Result screen](screenshots/result.png) |
-
 ## What it does
 
 - **Scam check:** paste text or upload a screenshot and get an AI-based verdict with red flags and safe next steps, all in Bangla.
